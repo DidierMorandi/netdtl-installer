@@ -1,0 +1,11 @@
+{
+  "sheet": "Inventaire",
+  "mapping": {
+    "prise": "PortBrassage",
+    "hostname": "NomMachine",
+    "ip": "AdresseIP",
+    "type": "TypePrise",
+    "local": "Bureau",
+    "notes": "Commentaire"
+  }
+}

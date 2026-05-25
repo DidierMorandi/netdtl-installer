@@ -1,0 +1,5 @@
+Output/
+*.exe
+*.log
+Thumbs.db
+desktop.ini
